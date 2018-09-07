@@ -1,1 +1,4 @@
 Wiegand KEYWORD1
+initialize KEYWORD2
+avail KEYWORD3
+dequeue_buf KEYWORD4
