@@ -1,4 +1,4 @@
-Wiegand KEYWORD1
-initialize KEYWORD2
-avail KEYWORD2
-dequeue_buf KEYWORD2
+Wiegand	KEYWORD1
+initialize	KEYWORD2
+avail	KEYWORD2
+dequeue_buf	KEYWORD2
